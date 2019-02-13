@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9072d2d4-5f9a-4a5d-aebc-b6c303de7d8f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$ImageProcesorTest_applyFiltersToImages.ic" NAME="ImageProcesorTest.applyFiltersToImages Coverage Results" MODIFIED="1549716282351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkprogramator.tool_images.toolbox.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$MainTest_main.ic" NAME="MainTest.main Coverage Results" MODIFIED="1549720147483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkprogramator.tool_images.toolbox.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$MainTest_processImagesByOptionsFilters.ic" NAME="MainTest.processImagesByOptionsFilters Coverage Results" MODIFIED="1549725056673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.lkprogramator.tool_images.toolbox.*</FILTER>
+      <FILTER>com.lkprogramator.tool_images.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$ImageProcesorTest_prepareImageFiles.ic" NAME="ImageProcesorTest.prepareImageFiles Coverage Results" MODIFIED="1549724864099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkprogramator.tool_images.toolbox.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$All_in_ProgrammersToolbox_Images.ic" NAME="All in ProgrammersToolbox_Images Coverage Results" MODIFIED="1549973353692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$com_lkprogramator_tool_images_utils_in_ProgrammersToolbox_Images.ic" NAME="com.lkprogramator.tool_images.utils in ProgrammersToolbox_Images Coverage Results" MODIFIED="1549725225205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkprogramator.tool_images.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$com_lkprogramator_tool_images_toolbox_in_ProgrammersToolbox_Images.ic" NAME="com.lkprogramator.tool_images.toolbox in ProgrammersToolbox_Images Coverage Results" MODIFIED="1549725245534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkprogramator.tool_images.toolbox.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgrammersToolbox_Images$com_lkprogramator_tool_images_model_in_ProgrammersToolbox_Images.ic" NAME="com.lkprogramator.tool_images.model in ProgrammersToolbox_Images Coverage Results" MODIFIED="1549725297990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lkprogramator.tool_images.model.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="541" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Empty Mind Map" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Options</find>
+      <find>ImageIcon</find>
+      <find>getBufferedImage</find>
+      <find>incorrectArgumentValueMessage</find>
+      <find>prepareImageFiles</find>
+      <find>System</find>
+      <find>compiler</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/utils/ImageUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utils/ImageUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/toolbox/Main.java" />
+        <option value="$USER_HOME$/.IntelliJIdea2016.3/idea.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/messages/LoggerMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/ImageFileFilter.java" />
+        <option value="$PROJECT_DIR$/ProgrammersToolbox_Images.mmd" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/Filters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageCompare.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/FileUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/ImageUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/CommonUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageConvertor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageMovers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageResizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/ResizeVariants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/Picture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/ImageFilters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/ImageFileFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/DirectoryUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/ImageFileFilterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/EntryArguments.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/Options.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/FilterType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageProcesor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/DirectoryUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageConvertorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/model/OptionsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageMoversTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageProcesorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageResizerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/ImageUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/testBase/baseTestClass.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="ProgrammersToolbox_Images/invalid/NB Mind Map" />
+    </ignored-facets>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/share/maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ProgrammersToolbox_Images" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ProgrammersToolbox_Images" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="toolbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="testBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="toolbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tool_images" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549746640869" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="com.lkprogramator.tool_images.testBase.baseTestClass" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="reference.settings.project.maven.ignored.files" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lkprogramator.tool_images.toolbox" />
+      <recent name="com.lkprogramator.tool_images.model" />
+      <recent name="com.lkprogramator.tool_images.utils" />
+      <recent name="utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/test_images_filters" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lkprogramator.tool_images.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="com.lkprogramator.tool_images.testBase.baseTestClass" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/test_images_resize" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.ProgrammersToolbox_Images [test]">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ProgrammersToolbox_Images (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammersToolbox_Images" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ProgrammersToolbox_Images" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammersToolbox_Images" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectoryUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammersToolbox_Images" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkprogramator.tool_images.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lkprogramator.tool_images.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.lkprogramator.tool_images.utils.DirectoryUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.lkprogramator.tool_images.model in ProgrammersToolbox_Images" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammersToolbox_Images" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lkprogramator.tool_images.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lkprogramator.tool_images.model" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgrammersToolbox_Images [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.com.lkprogramator.tool_images.model in ProgrammersToolbox_Images" />
+      <item itemvalue="JUnit.All in ProgrammersToolbox_Images" />
+      <item itemvalue="JUnit.DirectoryUtilsTest" />
+      <item itemvalue="JUnit.All in ProgrammersToolbox_Images (1)" />
+      <item itemvalue="Maven.ProgrammersToolbox_Images [test]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.ProgrammersToolbox_Images [test]" />
+        <item itemvalue="JUnit.All in ProgrammersToolbox_Images (1)" />
+        <item itemvalue="JUnit.All in ProgrammersToolbox_Images" />
+        <item itemvalue="JUnit.DirectoryUtilsTest" />
+        <item itemvalue="JUnit.com.lkprogramator.tool_images.model in ProgrammersToolbox_Images" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9072d2d4-5f9a-4a5d-aebc-b6c303de7d8f" name="Default" comment="" />
+      <created>1542048690431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542048690431</updated>
+      <workItem from="1548072758391" duration="903000" />
+      <workItem from="1548078451171" duration="18378000" />
+      <workItem from="1548150762701" duration="7507000" />
+      <workItem from="1548246091214" duration="15817000" />
+      <workItem from="1548595556683" duration="12427000" />
+      <workItem from="1549121804699" duration="16351000" />
+      <workItem from="1549290275607" duration="12390000" />
+      <workItem from="1549383828448" duration="8761000" />
+      <workItem from="1549468311191" duration="9221000" />
+      <workItem from="1549528591954" duration="12224000" />
+      <workItem from="1549645698138" duration="18374000" />
+      <workItem from="1549699511732" duration="20108000" />
+      <workItem from="1549737746464" duration="6793000" />
+      <workItem from="1549900822511" duration="10615000" />
+      <workItem from="1549959791671" duration="26801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="com_lkprogramator_tool_images_utils_in_ProgrammersToolbox_Images - 2019.02.09 at 16h 13m 47s.xml">
+      <configuration name="com.lkprogramator.tool_images.utils in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_lkprogramator_tool_images_toolbox_in_ProgrammersToolbox_Images - 2019.02.09 at 16h 14m 09s.xml">
+      <configuration name="com.lkprogramator.tool_images.toolbox in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_lkprogramator_tool_images_model_in_ProgrammersToolbox_Images - 2019.02.09 at 16h 14m 49s.xml">
+      <configuration name="com.lkprogramator.tool_images.model in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_lkprogramator_tool_images_model_in_ProgrammersToolbox_Images - 2019.02.09 at 16h 14m 59s.xml">
+      <configuration name="com.lkprogramator.tool_images.model in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProgrammersToolbox_Images - 2019.02.12 at 13h 09m 21s.xml">
+      <configuration name="All in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProgrammersToolbox_Images - 2019.02.12 at 14h 13m 20s.xml">
+      <configuration name="All in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProgrammersToolbox_Images - 2019.02.12 at 14h 14m 08s.xml">
+      <configuration name="All in ProgrammersToolbox_Images" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProgrammersToolbox_Images_(1) - 2019.02.12 at 16h 49m 35s.xml">
+      <configuration name="All in ProgrammersToolbox_Images (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProgrammersToolbox_Images_(1) - 2019.02.12 at 16h 50m 06s.xml">
+      <configuration name="All in ProgrammersToolbox_Images (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProgrammersToolbox_Images_(1) - 2019.02.12 at 16h 50m 23s.xml">
+      <configuration name="All in ProgrammersToolbox_Images (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196670000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="988" extended-state="0" />
+    <layout>
+      <window_info active="true" id="Project" order="0" visible="true" weight="0.19946525" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2932243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995327" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32949308" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.113903746" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" x="100" y="127" width="1720" height="788" id="Byte Code Viewer" order="10" type="FLOATING" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.55187166" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="ProgrammersToolbox_Images" type="b2602c69:ProjectViewProjectNode" />
+        <item name="ProgrammersToolbox_Images" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProgrammersToolbox_Images.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2016.3/idea.exe.vmoptions" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/messages/LoggerMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images/test_image_04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images/test_image_03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images/test_image_02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammersToolbox_Images.mmd">
+      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images/test_image_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_write/teddddd.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_write/write_image.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_base/tree_and_rock_good.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_no_image_in_folder/empty.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_base/tree_and_rock.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_gen/tree_and_rock_filter_rotate.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_filters/tree_and_rock_filter_flip.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_filters/tree_and_rock_filter_watermark_text.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_filters/tree_and_rock_filter_bw.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_filters/tree_and_rock_filter_gray.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_images_gen/result_mod_imagestree_and_rock_good.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageCompare.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/ImageFilters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="e#2173#2174#0" expanded="true" />
+            <element signature="e#2270#2271#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
+            <element signature="e#2375#2376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/ImageFileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageResizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/ImageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/utils/DirectoryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/ResizeVariants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageMovers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/EntryArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="111" column="9" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="111" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1835#1836#0" expanded="true" />
+            <element signature="e#1871#1872#0" expanded="true" />
+            <element signature="e#1929#1930#0" expanded="true" />
+            <element signature="e#1979#1980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/model/FilterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/model/OptionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageMoversTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageResizerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/ImageFileFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/DirectoryUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-758">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/CommonUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-989">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/utils/ImageUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="198" column="172" selection-start-line="198" selection-start-column="172" selection-end-line="198" selection-end-column="172" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="138" column="83" selection-start-line="138" selection-start-column="83" selection-end-line="138" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageConvertorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="75" column="89" selection-start-line="75" selection-start-column="89" selection-end-line="75" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/testBase/baseTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/ImageProcesor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lkprogramator/tool_images/toolbox/ImageProcesorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2764">
+          <caret line="165" column="32" lean-forward="true" selection-start-line="165" selection-start-column="32" selection-end-line="165" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="777">
+            <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lkprogramator/tool_images/toolbox/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="361" column="9" lean-forward="true" selection-start-line="356" selection-start-column="7" selection-end-line="361" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#extractArguments#0;class#Main#0" />
+            <element signature="method#incorrectArgumentValueMessage#0;class#Main#0" />
+            <element signature="method#exitApp#0;class#Main#0" />
+            <element signature="method#buildModel#0;class#Main#0" />
+            <element signature="method#validateFilters#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sass-stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProgrammersToolbox_Images</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-io:commons-io:1.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
